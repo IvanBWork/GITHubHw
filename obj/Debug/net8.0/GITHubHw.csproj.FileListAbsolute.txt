@@ -1,0 +1,14 @@
+D:\GeekBrains\C#\GITHubHw\GITHubHw\bin\Debug\net8.0\GITHubHw.exe
+D:\GeekBrains\C#\GITHubHw\GITHubHw\bin\Debug\net8.0\GITHubHw.deps.json
+D:\GeekBrains\C#\GITHubHw\GITHubHw\bin\Debug\net8.0\GITHubHw.runtimeconfig.json
+D:\GeekBrains\C#\GITHubHw\GITHubHw\bin\Debug\net8.0\GITHubHw.dll
+D:\GeekBrains\C#\GITHubHw\GITHubHw\bin\Debug\net8.0\GITHubHw.pdb
+D:\GeekBrains\C#\GITHubHw\GITHubHw\obj\Debug\net8.0\GITHubHw.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\GITHubHw\GITHubHw\obj\Debug\net8.0\GITHubHw.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\GITHubHw\GITHubHw\obj\Debug\net8.0\GITHubHw.AssemblyInfo.cs
+D:\GeekBrains\C#\GITHubHw\GITHubHw\obj\Debug\net8.0\GITHubHw.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\GITHubHw\GITHubHw\obj\Debug\net8.0\GITHubHw.dll
+D:\GeekBrains\C#\GITHubHw\GITHubHw\obj\Debug\net8.0\refint\GITHubHw.dll
+D:\GeekBrains\C#\GITHubHw\GITHubHw\obj\Debug\net8.0\GITHubHw.pdb
+D:\GeekBrains\C#\GITHubHw\GITHubHw\obj\Debug\net8.0\GITHubHw.genruntimeconfig.cache
+D:\GeekBrains\C#\GITHubHw\GITHubHw\obj\Debug\net8.0\ref\GITHubHw.dll
