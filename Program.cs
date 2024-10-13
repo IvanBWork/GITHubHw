@@ -23,7 +23,7 @@
                 result = num1 * num2;
             }
 
-            Console.WriteLine($"The result of the operation = {result}");
+            Console.WriteLine($"Результат выполнения операции = {result}");
         }
 
         static void Main(string[] args)
@@ -41,15 +41,15 @@
             }
             else
             {
-                Console.Write("Enter the first number: ");
+                Console.Write("Введите первое число: ");
 
                 int number1 = int.Parse(Console.ReadLine()!);
 
-                Console.Write("Enter the desired operation (+, -, /, *): ");
+                Console.Write("Введите нужную операцию (+, -, /, *): ");
 
                 string operation = Console.ReadLine()!;
 
-                Console.Write("Enter the second number: ");
+                Console.Write("Введите второе число: ");
 
                 int number2 = int.Parse(Console.ReadLine()!);
 
